@@ -4,11 +4,11 @@ CollectionBuilder-CSV is a robust and flexible "stand alone" template for creati
 Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
 The resulting static site can be hosted on any basic web server (or built automatically using GitHub Actions).
 
-Visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for step-by-step details for getting started and building collections!
+Visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for step-by-step details for getting started and building collections! 
 
 ## Brief Overview of Building a Collection
 
-The [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) contain detailed information about building a collection from start to finish--including installing software, using Git/GitHub, preparing digital objects, and formatting metadata.
+The [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) contain detailed information about building a collection from start to finish--including installing software, using Git/GitHub, preparing digital objects, and formatting metadata. 
 However, here is a super quick overview of the process:
 
 - Make your own copy of this template repository by clicking the green "Use this Template" button on GitHub (see [repository set up docs](https://collectionbuilder.github.io/cb-docs/docs/repository/)). This copy of the template is the starting point for your "project repository", i.e. the source code for your digital collection site!
