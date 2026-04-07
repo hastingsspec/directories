@@ -5,3 +5,6 @@ creator,Creator,,,
 subject,,true
 location,,true,,,Location Depicted
 identifier,,,true,Identifier
+towns_covered,Cities,,true,
+type,Directory Type,,,
+county_covered,Counties,,true,
